@@ -16,11 +16,11 @@ So here is a bunch of ideas I have about kobolds. Some of this will be familiar
 and some of it may be wildly new and I probably won't know which is which for
 any given reader. I hope you like it.
 
-As I've worked on this, it became harder to organize in a single document, so
-it's been broken up into topical sections.
-
 
 ## Sections
+
+As I've worked on this, it became harder to organize in a single document, so
+it's been broken up into topical sections.
 
 1. [Biology](./biology.md) – A description of what kobolds look like, how thier
    bodies work and related topics.
