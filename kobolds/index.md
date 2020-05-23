@@ -26,5 +26,5 @@ it's been broken up into topical sections.
    bodies work and related topics.
 1. [Sociology](./sociology.md) – A discussion of common patterns and practices
    in kobold culture and society.
-1. [Relationships with Non-Kobolds](./non-kobolds.md) – A look into how kobolds
+1. [Relations with Non-Kobold Cultures](./non-kobolds.md) – A look into how kobolds
    relate to non-kobolds in the world around them.

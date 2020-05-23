@@ -1,6 +1,9 @@
-## Relationship to Non-Kobold Society
+# Relations with Non-Kobold Cultures
 
-### Big People
+1. [Big People](#big-people)
+1. [Dragons](#dragons)
+
+## Big People
 
 To say that kobolds have a contentious relationship to the societies of Big
 People would be an extreme understatement. As you may have guessed from its
@@ -70,7 +73,7 @@ kobolds to understand Big People. So incredibly few Big People put in the
 effort.
 
 
-### Dragons
+## Dragons
 
 It is important, given the probably audience of this document, to begin by
 saying that the relationship between kobolds and dragons exists primarily in the
