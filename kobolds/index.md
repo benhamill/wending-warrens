@@ -22,7 +22,7 @@ any given reader. I hope you like it.
 As I've worked on this, it became harder to organize in a single document, so
 it's been broken up into topical sections.
 
-1. [Biology](./biology.md) – A description of what kobolds look like, how thier
+1. [Biology](./biology.md) – A description of what kobolds look like, how their
    bodies work and related topics.
 1. [Sociology](./sociology.md) – A discussion of common patterns and practices
    in kobold culture and society.
