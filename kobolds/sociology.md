@@ -99,6 +99,10 @@ the mouth is a potential target.
 
 ### Family
 
+Eggs and young are cared for communally generally with a group of trained,
+dedicated kobolds leading the task, rather than the birth parents. See below for
+more of Kobold family formation.
+
 Given all of the above, family among kobolds is a complicated and confusing
 topic for most Big People. There are many words for the different ways an
 individual is related to others which capture different flavors of familial
