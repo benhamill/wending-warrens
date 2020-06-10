@@ -1,6 +1,28 @@
-## Society
+# Kobold Society
 
-### Community
+1. [Community](#community)
+   1. [Politics](#politics)
+   1. [Peace, War & Conflict](#peace-war--conflict)
+   1. [Economics](#economics)
+   1. [Religion](#religion)
+1. [Family, Gender & Sexuality](#family-gender--sexuality)
+   1. [Sex](#sex)
+   1. [Gender](#gender)
+   1. [Sexual & Romantic Relationships](#sexual--romantic-relationships)
+   1. [Family](#family)
+1. [Language](#language)
+1. [Culture](#culture)
+   1. [Art](#art)
+   1. [Dress](#dress)
+   1. [Pranks](#pranks)
+1. [Leisure](#leisure)
+1. [Health, the Body & Death](#health-the-both--death)
+1. [Education & Academia](#education--academia)
+1. [Laws & Justice](#laws--justice)
+1. [Ecology](#ecology)
+
+
+## Community
 
 Kobold communities are communities in the truest sense. Being small and weak
 compared to most other sentients, there is little hope that any single kobold
@@ -16,6 +38,67 @@ that in small, everyday ways it is often the communal good that weighs heavier
 than their individual personal desires when making choices.
 
 
+### Politics
+
+Kobold communities may not be organized the way most Big People communities are,
+but this doesn't mean they lack politics. Deciding what a community should do is
+often a messy, lengthy affair with different households or individuals giving
+speeches, holding debates, exhorting their fellow community members or getting
+into yelling matches.
+
+Decisions are generally made once the community has reached a rough consensus
+that everyone's voice and opinion has been represented and either the general
+consensus of what to do thereafter prevails or some voting process is invoked.
+Some communities have more or less complex traditions around this voting ranging
+from every community member (sometimes even including children) voting to some
+arrangement of rolling representation up by household or neighborhood.
+
+One downside of not having official governmental structures is that individuals
+with especially strong personalities or who are particularly charismatic may
+have undue and deleterious effect on the decisions of the community. Sometimes
+this is mitigated by kobolds' general dislike of central and powerful
+authorities, but sometimes it is not.
+
+
+### Peace, War & Conflict
+
+lkewjflkje flj
+
+
+### Economics
+
+It is a rare kobold community that uses a currency of any kind internally.
+Instead, work that needs to be done and the distribution of resources are
+managed more directly. The goal is that every member of the community has the
+access they need to the resources that the community can provide them and every
+member of the community contributes to those resources as best they can.
+
+This often means that individuals will change roles or trades within the
+community depending on what the community needs. Very rarely is someone forced
+to undertake a trade they don't want to, but very often will individuals choose
+to take on such a task because they see it as part of the social contract of
+community membership.
+
+Some communities do maintain a rotation system for the least popular work,
+mostly to do with sanitation and maintenance of the community's infrastructure.
+Often serving a rotation doing this work is rewarded with small material
+benefits and even if not, serving extra rotations is a good way to earn
+community trust.
+
+Some kobold communities do often maintain a store of currency or valuables
+recognized by nearby Big People communities so that if they needed to trade with
+them for resources not otherwise available, it would be possible. But trade like
+this is a foreign concept for many kobolds and so it is just as common for a
+community to have no such store.
+
+
+### Religion
+
+lwekfj lefkjw
+
+
+## Family, Gender & Sexuality
+
 ### Sex
 
 Sex among kobolds is not always for reproduction and, in fact, is more often
@@ -24,7 +107,7 @@ between individuals who are incapable of producing young together is much more
 common than sex between those who can. Kobolds, like most sentients, also
 consider a wide variety of acts to be part of sex which can include any
 non-reproductive organ or body part, most commonly: mouths, hands, tongues,
-tails and anuses.
+tails, cerata and anuses.
 
 
 ### Gender
@@ -99,10 +182,6 @@ the mouth is a potential target.
 
 ### Family
 
-Eggs and young are cared for communally generally with a group of trained,
-dedicated kobolds leading the task, rather than the birth parents. See below for
-more of Kobold family formation.
-
 Given all of the above, family among kobolds is a complicated and confusing
 topic for most Big People. There are many words for the different ways an
 individual is related to others which capture different flavors of familial
@@ -116,13 +195,20 @@ reunion or simply to show love are often large group affairs that range from a
 scrum of hugging and nuzzling to full orgies, sometimes with one leading into
 another.
 
-Children are not considered to be members of a household, but live in special
-child-only housing where caregivers are nearby. They are aware, however, of who
-their birth parents are and often spend time in and with their parents'
-households forming relationships with their parents' housemates and their lovers
-and friends, etc. Choosing to form or join a household is seen as a major rite
-of passage and generally happens near when an individual reaches physical
-maturity (generally between the ages of 8 and 12).
+Eggs are cared for communally in a hatchery and generally by a group of trained,
+dedicated kobolds leading the task. This is in part due to the lengthy gestation
+period of young within the egg and the strict environmental requirements for a
+healthy egg, but also because birth parents nearly always reside separately.
+
+Once hatched, children are not considered to be members of a household, but live
+in special child-only housing (the name of which roughly means "place where the
+children are watched over or protected", but "younghold" is much more pithy)
+where, again, trained and dedicated caregivers are nearby. Young kobolds are
+aware, however, of who their birth parents are and often spend time in and with
+their parents' households forming relationships with their parents' housemates
+and their lovers and friends, etc. Choosing to form or join a household is seen
+as a major rite of passage and generally happens near when an individual reaches
+physical maturity (generally between the ages of 8 and 12).
 
 It is not unheard of for a kobold to leave a household and join or form a new
 one with others, but it is seen as a socially significant event and so is not
@@ -139,11 +225,11 @@ single leader and some lack even an official council, households of elders often
 play these roles informally.
 
 
-### Language
+## Language
 
 Kobolds are capable of learning and speaking the languages of most other
 sentients, but due to distinct anatomy along their vocal tracts, most other
-sentients cannot learn to speak kobolds native languages (though with training
+sentients cannot learn to speak kobolds' native languages (though with training
 they may be able to learn to understand such languages). As with all species,
 there are many different kobold cultures and languages thus vary across them.
 However, the most widely spoken language among kobold communities is Chrqrryip.
@@ -163,7 +249,7 @@ on verbally in the form of song or epic poetry (see below).
 
 Therefore, the spelling "Chrqrryip" is not universally used and is, at best, a
 vague approximation to help a non-kobolds make roughly the correct sounds. The
-first syllable, spelled, "chr" is the most straightforward. It is a voiceless
+first syllable, spelled "chr," is the most straightforward. It is a voiceless
 postalveolar afficate followed by a syllabic R-like sound. For kobolds, this
 R-like sound is almost a purr in the back of the throat, but even kobolds with
 very little exposure to Big People would recognize this sound if the speaker
@@ -190,16 +276,18 @@ approximation of their native name with the sounds adapted for non-kobold vocal
 tracts.
 
 
-### Culture
+## Culture
+
+### Art
 
 Kobold culture, of course, varies widely across the world, just like that of any
 other sentient species. However there are common themes: Kobolds tend not to
 revere individual folk heroes or leaders, but instead tend to tell stories of
 communities coming together to solve problems. There are also many, many stories
 of kobolds being victimized or attacked by Big People (with a strong historical
-basis, see below). Songs on themes of romance and sex are also very common.
-Since most kobolds do not read or write, almost all of these stories are
-conveyed through lengthy, verbally communicated epic poems or by song.
+basis). Songs on themes of romance and sex are also very common. Since most
+kobolds do not read or write, almost all of these stories are conveyed through
+lengthy, verbally communicated epic poems or by song.
 
 Instruments among kobolds often vary widely from community to community. They
 may acquire instruments from Big People communities nearby or build imitations
@@ -219,6 +307,24 @@ Also, due to the influence of differing ideas about art from nearby Big People
 cultures, sometimes a community may produce art more comparable to those
 cultures' art.
 
+
+### Dress
+
+As with most sentients, kobolds like shiny objects and often adorn their bodies
+with jewelry and piercings of metal and gems. It is also common to wear head,
+ceras, neck, arm, wrist, leg or ankle bands of leather with beads and/or
+feathers.
+
+Kobold clothing is often light and minimalist. While fashion obviously varies
+over time and geography, a staple of many wardrobes are short skirts, front-only
+loin clothes and open-front vests. Many kobolds go shirtless. If climate or
+tasks dictate, however, kobolds will wear protective gear such as armor, leather
+aprons, heavy coats, etc. just like any reasonable person. Kobolds generally do
+not wear footwear except in such circumstances as well.
+
+
+### Pranks
+
 Another interesting aspect common to many Kobold cultures are prank wars.
 Because they are small and weak relative to most other sentients, they tend to
 want to automate the defense of their homes with multiple, layered and elaborate
@@ -230,27 +336,23 @@ good-natured rivalries lasting years that make Big People pranks like a full
 bucket sitting on top of a slightly-ajar door look absolutely pedestrian.
 
 
-### Dress
+## Leisure
 
-As with most sentients, kobolds like shiny objects and often adorn their bodies
-with jewelry and piercings of metal and gems. It is also common to wear head,
-neck, arm or leg bands of leather with beads and/or feathers.
-
-Kobold clothing is often light and minimalist. While fashion obviously varies
-over time and geography, a staple of many wardrobes are short skirts, front-only
-loin clothes and open-front vests. Many kobolds go shirtless. If climate or
-tasks dictate, however, kobolds will wear protective gear such as armor, leather
-aprons, heavy coats, etc. just like any reasonable person. Kobolds generally do
-not wear footwear except in such circumstances as well.
+qlkfdj qfelkj f
 
 
-### Education & Academia
+## Health, the Body & Death
+
+qlkdj qlfkj qw
+
+
+## Education & Academia
 
 Because of the central place that spoken poetry and song plays in kobold
 culture, the roles of singers and story tellers are very prestigious. Kobolds
 generally do not have centers of learning like Big People universities or
 schools, but these bards also play the role of academics. They lead the teaching
-of the community (both children and adults) and the continuation of their
+of the community (both children and adults) and the reproduction of their
 community's culture from generation to generation.
 
 These bards are also the most likely kobolds to venture out into the wider world
@@ -259,7 +361,7 @@ comport themselves the way most Big People expect academics and scholars to
 comport themselves; formality is not a very common trait of kobold cultures.
 
 
-### Laws & Justice
+## Laws & Justice
 
 Most kobold communities have very few laws if any. The common theme among them
 tends to be that letting down or failing the community when it could be avoided
@@ -269,7 +371,7 @@ Instead it is a way to reinforce that those who can support the community do, so
 that those who the community needs to support can be so supported.
 
 Transgressions between individuals tend to be handled with community-led
-mediation. Sometimes individuals must be separated (for instance in the care of
+mediation. Sometimes individuals must be separated (for instance in the case of
 interpersonal violence), but both the transgressor and the transgressed will
 generally receive support.
 
@@ -299,7 +401,7 @@ physical touch is the thing that wears most often on those shunned and the
 psychological toll that long-term shunning can have due to the lack of physical
 contact can be severe.
 
-## Distribution
+## Ecology
 
 Kobolds tend to prefer warmer climates, so kobold communities are much more
 numerous in arid, tropical and temperate regions. They also tend (for reasons
