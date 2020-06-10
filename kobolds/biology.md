@@ -245,7 +245,10 @@ first 18 to 24 months of life.
 Kobolds typically reach sexual maturity between 8 to 12 years of age. Prior to
 this, they are considered children. This transition also generally includes a
 second period of rapid growth and frequent molting. Some individuals may molt as
-often as every two weeks, though this is extreme.
+often as every two weeks, though this is extreme. Near the end of this period,
+most kobolds experience a sharp rise in libido—given that the typical kobold
+libido is much higher than other sentients, this level in new adults can be
+alarming to outsiders—which often lasts for 12 to 18 months.
 
 After reaching sexual maturity, kobolds' growth and molting frequency greatly
 abates and the next significant stage of physical development comes around age 40.
