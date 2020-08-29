@@ -5,14 +5,13 @@
 
 ## Big People
 
-To say that kobolds have a contentious relationship to the societies of Big
-People would be an extreme understatement. As you may have guessed from its
-usage within this document, kobolds have a term for societies and cultures
-dominated by humans, elves, dwarves, orcs, half-elves, halflings, etc. which
-more or less translates to "Big People". Though not all the species that kobolds
-generally classify as Big People are actually much bigger than kobolds in size,
-the label groups them because of their shared social and cultural ideas,
-especially ones that differ from those broadly held by kobolds.
+Kobolds have a term for societies and cultures dominated by humans, elves,
+dwarves, orcs, half-elves, halflings, etc. which more or less translates to "Big
+People". Though not all the species that kobolds generally classify as Big
+People are actually much bigger than kobolds in size, the label groups them
+because of their shared social and cultural ideas, especially ones that differ
+from those broadly held by kobolds.  To say that kobolds have a contentious
+relationship to the societies of Big People would be an extreme understatement.
 
 Especially societies dominated by humans and elves tend to have extremely
 negative views of kobolds. Many consider them to be animals or barely above—a
@@ -69,13 +68,13 @@ Very much less common are Big People who decide to spend extended time visiting
 or living with Kobolds. Most species would find the spaces unmanageably small,
 and, further, given the political and cultural dominance of Big People, it
 simply benefits Big People far less to understand kobolds than it does for
-kobolds to understand Big People. So incredibly few Big People put in the
+kobolds to understand Big People, so incredibly few Big People put in the
 effort.
 
 
 ## Dragons
 
-It is important, given the probably audience of this document, to begin by
+It is important, given the probable audience of this document, to begin by
 saying that the relationship between kobolds and dragons exists primarily in the
 minds of Big People, rather than in verifiable fact.
 
@@ -101,7 +100,8 @@ with a nearby dragon they may as well get some benefit from it.
 Another common—which word must be understood within the context of a general
 situation which is itself actually very rare—pattern is that a dragon will
 subjugate a kobold community with violence and the threat thereof for its own
-ends.
+ends. For example, because they are incredibly nutrient rich, some dragons
+consider kobold eggs to be a delicacy.
 
 Whatever the inciting mechanism, it seems the results are almost universally the
 same: the kobold community becomes subject to the dragon, the standard of living
