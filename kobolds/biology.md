@@ -6,6 +6,7 @@
    1. [Scales & Coloration](#scales--coloration)
    1. [Reproductive Organs](#reproductive-organs)
    1. [Dewlap](#dewlap)
+   1. [Cerata](#cerata)
 1. [Physiology](#physiology)
    1. [Locomotion & Other Movement](#locomotion--other-movement)
    1. [Nutrition & Diet](#nutrition--diet)
@@ -25,7 +26,8 @@ the 5 to 6 foot range).
 They have faces with pronounced snouts like many lizards. Their nostrils and
 eyes are large for their head size compared to most other sentients. Eye color
 commonly can range from dark brown to golden, blue, green and yellow. They lack
-external ears, also like lizards.
+external ears, also like lizards, having small ear holes on the sides of their
+heads.
 
 Kobolds have sharp cutting teeth in the front of their mouths (these are much
 sharper than the cutting teeth of mammalian sentients) and crushing teeth at the
@@ -90,27 +92,34 @@ variability in appearance beyond this. As with all other sentients, physical
 traits are selected for due to societal concerns and vary across the total
 population of the species. Only the most common will be discussed here.
 
-Most kobolds have smooth scales over their entire bodies. Coloration can vary
-widely and is one of the major identifying marks (like skin and hair color among
-mammalian sentients). It is also clearly inherited from parents. For example,
-some individuals may be entirely a dusty brown perhaps with a lighter brown
-ventral side (chin, front of the neck, chest, belly, groin and underside of the
-tail) while others might have a busy pattern of one dark and one bright color
-and others might be mostly a bright blue or green with red stripes along their
-back. These are only a few examples to illustrate the breadth of variety.
+A vast majority of kobolds have spiky protrusions that form crests or ridges
+above the eyes, at the top of the head (behind the cerata), along the back of
+the head, behind the jaw or combinations of those locations. These tend to be
+fairly short, between one quarter to one inch long and are not very sharp.
+
+Coloration can vary widely and is one of the major identifying marks (like skin
+and hair color among mammalian sentients). It is also clearly inherited from
+parents. For example, some individuals may be entirely a dusty brown perhaps
+with a lighter brown ventral side (chin, front of the neck, chest, belly, groin
+and underside of the tail) while others might have a busy pattern of one dark
+and one bright color and others might be mostly a bright blue or green with red
+stripes along their back. These are only a few examples to illustrate the
+breadth of variety.
 
 Less common, but still not shocking to find in a kobold population of any size
 at all, are individuals with long feathers (generally in the 4-7 inch range).
 These will often—but not always—be of similar colors to their scales and most
-often form fans or crests at the back and/or top of the head or at the tip of
-the tail. Some fewer feathered individuals may have feathers about the
-shoulders, waist, elbow or knee (but only very rarely at the wrist or ankle,
-which, remember, is digitigrade and so not near the ground during locomotion).
+often form fans or crests at the back and/or top of the head (either around or
+on the cerata) or at the tip of the tail. Some fewer feathered individuals
+may have feathers about the shoulders, waist, elbow or knee (but only very
+rarely at the wrist or ankle, which, remember, is digitigrade and so not near
+the ground during locomotion).
 
-More rare are individuals with horny protrusions on the head and face or along
-the spine and into the tale. These are generally less than a half inch long and
-while they may look fearsome, they are not very sharp but might be useful for a
-good scratch.
+Even more rare are individuals whose spiky protrusions continue down the spine
+and onto the dorsal side of the tale or onto the face and jaw. These are
+generally longer than other kobolds' spikes, ranging from a half inch to two
+inches long. While they may look fearsome, they are not very sharp but they
+might be useful for a good scratch.
 
 Periodically, a kobold will molt. Molting frequency is driven by growth. A
 typical adult will molt roughly every year, whereas children may molt as often
@@ -160,6 +169,21 @@ other's emotional state is possible, say "upset" or "happy". Whereas between
 individuals who have known each other for years, it may be possible to
 distinguish "embarrassed" from "frustrated" or "content" from "pleasantly
 surprised".
+
+
+### Cerata
+
+Kobolds have two fleshy protuberances on the tops of their heads called cerata
+(singular: ceras). They are located above and behind the eyes in a location
+similar to canine or feline ears, though they have no involvement in hearing.
+They are generally 4-6 inches long in adults and somewhat plump for their
+length. They are covered in scales that generally match the rest of the
+individuals' head scales, though in feathered individuals, they may also have
+feathers.
+
+Their exact biological function is unclear, but they are controllable by an
+individual via muscles on top of their head and movement of them is used
+expressively in a way that canines' ears or humans' eyebrows often are.
 
 
 ## Physiology
