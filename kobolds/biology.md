@@ -116,7 +116,7 @@ rarely at the wrist or ankle, which, remember, is digitigrade and so not near
 the ground during locomotion).
 
 Even more rare are individuals whose spiky protrusions continue down the spine
-and onto the dorsal side of the tale or onto the face and jaw. These are
+and onto the dorsal side of the tail or onto the face and jaw. These are
 generally longer than other kobolds' spikes, ranging from a half inch to two
 inches long. While they may look fearsome, they are not very sharp but they
 might be useful for a good scratch.
