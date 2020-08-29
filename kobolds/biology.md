@@ -35,7 +35,7 @@ rear of their mouths. They have a wide, muscly tongue with a notch near the end
 which typically ranges in color from black through grey to bright blue.
 
 They have two arms, two legs and a long, thick tail. They are typically slender
-and have a very low body fat percentage with their tail accounting for 30-45% of
+and have a very low body fat percentage with their tail accounting for 20-45% of
 their body mass. Their bones are of a weight and density typical for other
 slender sentients their size: closer to goblin bones than dwarf bones.
 
